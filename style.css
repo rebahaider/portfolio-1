@@ -12,7 +12,7 @@ body{
     border-radius: 5px;
     background: #FD6E0A;
     border: 0;
-    padding: 18px 36px;
+    padding: 10px 30px;
     color: #FFF;
     font-size: 20px;
     font-weight: 700;
@@ -21,6 +21,7 @@ body{
 nav{
     display: flex;
     justify-content: space-between;
+    margin: 0px 200px;
 }
 nav ul{
     display: flex;
@@ -38,4 +39,12 @@ nav ul li a{
     color: var(--Dark-01, #181818);
     font-size: 45px;
     font-weight: 800;
+}
+.header{
+    background: #FFF8F3;
+}
+.box{
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 200px;
 }
