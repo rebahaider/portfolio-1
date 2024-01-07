@@ -125,4 +125,22 @@ nav ul li a{
 .download-cv{
     text-align: center;
 }
+/* footer section styles */
+.total-container{
+    background: #FFF8F3;
+    padding: 130px 230px;
+}
+.form-details label{
+    display: block;
+    
+}
+.total-container{
+    display: flex;
+    gap: 30px;
+}
+.form-details{
+    border-radius: 5px;
+    background:#FFF;
+    box-shadow: none;
+}
 
