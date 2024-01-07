@@ -129,18 +129,32 @@ nav ul li a{
 .total-container{
     background: #FFF8F3;
     padding: 130px 230px;
+    margin-top: 100px;
+    gap: 100px;
 }
-.form-details label{
-    display: block;
-    
-}
+.form-details input, textarea, button{
+    display: block;  
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    background: #FFF;
+} 
 .total-container{
     display: flex;
-    gap: 30px;
 }
 .form-details{
     border-radius: 5px;
     background:#FFF;
     box-shadow: none;
+}
+.footer-title{
+    color:#181818;
+    font-size: 35px;
+    font-weight: 700;
+}
+.footer-description{
+    color:#474747;
+    font-size: 16px;
+    font-weight: 400;
 }
 
