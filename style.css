@@ -92,10 +92,10 @@ nav ul li a{
     text-align: center;
     font-size: 18px;
     font-weight: 400;
-    margin: 30px 400px;
+    margin: 30px 156px;
 }
 .about-info-container{
-    margin: 30px 400px;
+    margin: 30px 156px;
     display: flex;
     justify-content: space-around;
 }
@@ -104,6 +104,13 @@ nav ul li a{
     text-align: center; 
 }
 /* what do section */
+.what-about-description{
+    color:#757575;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 0 345px;
+}
 .info{
     display: flex;
     margin: 80px 280px;
@@ -122,8 +129,9 @@ nav ul li a{
     margin: 80px 230px;
     gap: 50px;
 }
-.download-cv{
-    text-align: center;
+.cv{
+    display: flex;
+    justify-content: center;
 }
 /* footer section styles */
 .total-container{
